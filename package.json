@@ -1,0 +1,17 @@
+{
+    "author": "psaikiran",
+    "name":"censoritpsk",
+    "version":"0.0.1",
+    "main":"censor",
+    "repository": {
+       "type": "git",
+       "url": "https://github.com/saikiran1978/censoritpsk"
+    },
+    "keywords": [
+       "censor","censorit","psk"
+    ],
+    "dependencies": {},
+    "engines": {
+    "node": "*"
+    }
+   }
